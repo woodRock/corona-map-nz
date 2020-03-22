@@ -1,0 +1,36 @@
+#! /bin/bash
+CSV=cases.csv
+
+URL="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases";
+
+declare -a CITIES=(
+  "Auckland" 
+  "Nelson" 
+  "Manawatu" 
+  "Taupo" 
+  "Wellington" 
+  "Waikato"
+  "Wairarapa" 
+  "Invercargill" 
+  "Hawkes\ Bay" 
+  "Canterbury" 
+  "Southern\ DHB" 
+  "Rotorua" 
+  "Northland" 
+  "Taranaki" 
+  "Dunedin"
+  "Otago"
+  "Bay\ of\ Plenty"
+  "Hamilton"
+);
+
+curl -s $URL > data;
+< data tr -d '\n' | grep -oP '(?<=<table class="table-style-two").*?(?=</table>)' > out;
+
+for city in "${CITIES[@]}"
+do 
+  n=$(grep -o "<td>$city</td>" out | wc -l);
+  printf "%s " $city;
+  printf "%d\n" $n;
+  sed -i "/^$city,/s/[^,]*/$n/5" $CSV
+done 
