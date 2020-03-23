@@ -11,3 +11,6 @@ The CSV can then be uploaded to mymaps. This is an extension of Google Maps that
 2. Set the label to City
 3. Style the layer to a range by cases 
 4. Change the icon to Biohazard 
+
+## Source
+Ministry of Health [data](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases)
