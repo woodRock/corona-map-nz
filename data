@@ -38,7 +38,7 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mohpub_bootstrap","theme_token":"olL3sXplcpx9qym5NyQucrpm7JhNa9vcvgOwRbS3XKs","js":{"sites\/all\/modules\/custom\/table_d3chart\/js\/table_d3chart.js":1,"sites\/all\/modules\/custom\/moh_d3\/moh_d3.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"modules\/field\/modules\/text\/text.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/c3\/c3.js":1,"sites\/all\/libraries\/d3\/d3.js":1,"sites\/all\/modules\/contrib\/d3\/js\/d3.js":1,"sites\/all\/libraries\/d3.helpers\/d3.helpers.js":1,"sites\/all\/libraries\/d3.c3\/d3-c3.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/assets\/ios-fix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.cookie.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.moh.announcement.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/svgeezy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/fitvids.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/script.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.google_analytics.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-accessibility.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/style-switcher.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/c3\/c3.css":1,"sites\/all\/libraries\/d3.c3\/d3-c3.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/features\/site_profile\/css\/fix-rubik-multiselect-height.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/style.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/responsive-tables.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/print.css":1}},"field_group":{"div":"full"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|docx|xlsx|pptx|pptm|ppsx|ppsm|epub"},"mohD3":{"C3Types":["line","spline","step","area","area-spline","area-step","bar","scatter","pie","donut","gauge"],"graphRender":"line","graphLegend":true,"graphDefaultColors":"#2b8cbe, #abdda4, #7f7f7f, #92cddc, #dc8b0c","graphDefaultGroupedTooltip":0,"graphDefaultGridX":0,"graphDefaultGridY":0,"graphDefaultLegendPosition":"top-right","graphDefaultTooltip":1,"graphDefaultDataLabel":0,"graphLegendStep":"5","graphInteraction":true,"graphTypes":"","graphXaxisShow":true,"graphXaxisLabel":"","graphYaxisLabel":"","graphXaxisType":"category","graphXaxisCentered":false,"graphXaxisRotation":"","graphXaxisHeight":"","graphYaxisShow":true,"graphYaxisMax":"","graphYaxisMin":"","graphYaxisInverted":false,"graphYaxisCenter":"","graphYaxisPrefix":"","graphYaxisSuffix":"","graphYaxisPosition":"","graphY2axisShow":false,"graphY2axisSource":"","graphY2axisMax":"","graphY2axisMin":"","graphGroups":"","graphRotated":false,"graphIgnoreEmpty":false,"graphLineDot":true,"graphBarRatio":"0.9","graphDot":true,"graphDotR":"2.5","graphFocus":false},"tableD3":{"show":"View table data source","hide":"Hide table data source"},"urlIsAjaxTrusted":{"\/our-work\/diseases-and-conditions\/covid-19-novel-coronavirus\/covid-19-current-cases":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mohpub_bootstrap","theme_token":"7aSc7Pu8VUZbH5S8JsYxpbblNu0CSNsiVQ4h0ucNLjI","js":{"sites\/all\/modules\/custom\/table_d3chart\/js\/table_d3chart.js":1,"sites\/all\/modules\/custom\/moh_d3\/moh_d3.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"modules\/field\/modules\/text\/text.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/c3\/c3.js":1,"sites\/all\/libraries\/d3\/d3.js":1,"sites\/all\/modules\/contrib\/d3\/js\/d3.js":1,"sites\/all\/libraries\/d3.helpers\/d3.helpers.js":1,"sites\/all\/libraries\/d3.c3\/d3-c3.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/assets\/ios-fix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.cookie.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.moh.announcement.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/svgeezy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/fitvids.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/script.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.google_analytics.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-accessibility.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/style-switcher.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/c3\/c3.css":1,"sites\/all\/libraries\/d3.c3\/d3-c3.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/features\/site_profile\/css\/fix-rubik-multiselect-height.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/style.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/responsive-tables.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/print.css":1}},"field_group":{"div":"full"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|docx|xlsx|pptx|pptm|ppsx|ppsm|epub"},"mohD3":{"C3Types":["line","spline","step","area","area-spline","area-step","bar","scatter","pie","donut","gauge"],"graphRender":"line","graphLegend":true,"graphDefaultColors":"#2b8cbe, #abdda4, #7f7f7f, #92cddc, #dc8b0c","graphDefaultGroupedTooltip":0,"graphDefaultGridX":0,"graphDefaultGridY":0,"graphDefaultLegendPosition":"top-right","graphDefaultTooltip":1,"graphDefaultDataLabel":0,"graphLegendStep":"5","graphInteraction":true,"graphTypes":"","graphXaxisShow":true,"graphXaxisLabel":"","graphYaxisLabel":"","graphXaxisType":"category","graphXaxisCentered":false,"graphXaxisRotation":"","graphXaxisHeight":"","graphYaxisShow":true,"graphYaxisMax":"","graphYaxisMin":"","graphYaxisInverted":false,"graphYaxisCenter":"","graphYaxisPrefix":"","graphYaxisSuffix":"","graphYaxisPosition":"","graphY2axisShow":false,"graphY2axisSource":"","graphY2axisMax":"","graphY2axisMin":"","graphGroups":"","graphRotated":false,"graphIgnoreEmpty":false,"graphLineDot":true,"graphBarRatio":"0.9","graphDot":true,"graphDotR":"2.5","graphFocus":false},"tableD3":{"show":"View table data source","hide":"Hide table data source"},"urlIsAjaxTrusted":{"\/our-work\/diseases-and-conditions\/covid-19-novel-coronavirus\/covid-19-current-cases":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="/sites/all/themes/mohpub_bootstrap/js/assets/html5shiv.js"></script>
@@ -67,7 +67,7 @@
 
       
   <form action="/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-item-apachesolr-panels-search-form form-type-textfield form-group"> <label class="control-label" for="edit-apachesolr-panels-search-form">Search</label>
-<input title="Enter the terms you wish to search for." class="form-control form-text" type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-CGsRrvYPHAvMlLPQD4Alk7iTcpHd93IgkxPNj_pgSRw" />
+<input title="Enter the terms you wish to search for." class="form-control form-text" type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-v9jHv_WOsF4oF3L1gqL1bJtkkEpx8xdMBDOR4RMujcE" />
 <input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
 <div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
 </div></div></form>
@@ -430,28 +430,157 @@
         <article id="node-10813" class="node node-page view-mode-full clearfix" about="/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-cases" typeof="sioc:Item foaf:Document">
     <header>
             <span property="dc:title" content="COVID-19 - current cases" class="rdf-meta element-hidden"></span>      </header>
-    <div class="field field-name-field-intro-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="intro-text">Information about current cases of COVID-19 in New Zealand.</p></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We&#39;ll be updating this page as new information is available.</p>
+    <div class="field field-name-field-intro-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="intro-text">There are currently 102 cases of COVID-19 in New Zealand.</p></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="georgia-italic">Last updated 2:30&nbsp;pm, 23 March 2020.</p>
 
-<p class="georgia-italic">Last updated 5:20&nbsp;pm, 22 March 2020.</p>
+<p>We&#39;ll be updating this page as new information is available.</p>
 
 <table class="table-style-two">
-	<colgroup>
-		<col />
-		<col />
-		<col />
-		<col />
-		<col />
-	</colgroup>
 	<thead>
 		<tr>
-			<th scope="col">Case</th>
-			<th scope="col">Location</th>
-			<th scope="col">Age</th>
-			<th scope="col">Gender</th>
-			<th scope="col">Travel details</th>
+			<th>Case</th>
+			<th>Location</th>
+			<th>Age</th>
+			<th>Gender</th>
+			<th>Travel details</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td colspan="5">Details on cases 86&ndash;102 to come</td>
+		</tr>
+		<tr>
+			<td>85</td>
+			<td>Auckland</td>
+			<td>Child</td>
+			<td>M</td>
+			<td>Relative of a confirmed case</td>
+		</tr>
+		<tr>
+			<td>84</td>
+			<td>Auckland</td>
+			<td>50s</td>
+			<td>M</td>
+			<td>Doha to Auckland on 18 March &ndash; flight QR920</td>
+		</tr>
+		<tr>
+			<td>83</td>
+			<td>Auckland</td>
+			<td>50s</td>
+			<td>F</td>
+			<td>Doha to Auckland on 18 March &ndash; flight QR920</td>
+		</tr>
+		<tr>
+			<td>82</td>
+			<td>Auckland</td>
+			<td>60s</td>
+			<td>F</td>
+			<td>Linked to two confirmed cases</td>
+		</tr>
+		<tr>
+			<td>81</td>
+			<td>Auckland</td>
+			<td>60s</td>
+			<td>M</td>
+			<td>Dubai to Auckland on 18 March &ndash; flight EK0448</td>
+		</tr>
+		<tr>
+			<td>80</td>
+			<td>Marlborough</td>
+			<td>50s</td>
+			<td>M</td>
+			<td>Sydney to Auckland on 18 March &ndash; flight QF143, Auckland to Blenheim on 18 March &ndash; flight NZ8205</td>
+		</tr>
+		<tr>
+			<td>79</td>
+			<td>Tasman</td>
+			<td>20s</td>
+			<td>M</td>
+			<td>International travel &ndash; flight details to come</td>
+		</tr>
+		<tr>
+			<td>78</td>
+			<td>Manawatu</td>
+			<td>40s</td>
+			<td>F</td>
+			<td>Sydney to Wellington on 19 March &ndash; flight NZ842</td>
+		</tr>
+		<tr>
+			<td>77</td>
+			<td>Auckland</td>
+			<td>20s</td>
+			<td>F</td>
+			<td>Kuala Lumpur to Auckland on 19 March &ndash; flight MH0133</td>
+		</tr>
+		<tr>
+			<td>76</td>
+			<td>Auckland</td>
+			<td>60s</td>
+			<td>M</td>
+			<td>Hong Kong to Auckland on 13 March &ndash; flight CX2191</td>
+		</tr>
+		<tr>
+			<td>75</td>
+			<td>Waikato</td>
+			<td>70s</td>
+			<td>M</td>
+			<td>Relative of a confirmed case</td>
+		</tr>
+		<tr>
+			<td>74</td>
+			<td>Auckland</td>
+			<td>20s</td>
+			<td>M</td>
+			<td>Travel to USA &ndash; flight details to come</td>
+		</tr>
+		<tr>
+			<td>73</td>
+			<td>Auckland</td>
+			<td>Teens</td>
+			<td>M</td>
+			<td>Details to come</td>
+		</tr>
+		<tr>
+			<td>72</td>
+			<td>Canterbury</td>
+			<td>20s</td>
+			<td>F</td>
+			<td>Singapore to Christchurch on 18 March &ndash; flight SQ297</td>
+		</tr>
+		<tr>
+			<td>71</td>
+			<td>Auckland</td>
+			<td>30s</td>
+			<td>M</td>
+			<td>LA to Auckland on 18 March &ndash; flight NZ05</td>
+		</tr>
+		<tr>
+			<td>70</td>
+			<td>Auckland</td>
+			<td>50s</td>
+			<td>F</td>
+			<td>Details to come</td>
+		</tr>
+		<tr>
+			<td>69</td>
+			<td>Auckland</td>
+			<td>40s</td>
+			<td>M</td>
+			<td>Dubai to Auckland on 15 March &ndash; flight EK448</td>
+		</tr>
+		<tr>
+			<td>68</td>
+			<td>Dunedin</td>
+			<td>20s</td>
+			<td>F</td>
+			<td>San Francisco to Auckland on 17 March &ndash; flight NZ07, Auckland to Dunedin on 19 March &ndash; flight JQ285</td>
+		</tr>
+		<tr>
+			<td>67</td>
+			<td>Auckland</td>
+			<td>20s</td>
+			<td>F</td>
+			<td>Wellington to Auckland on 15 March &ndash; flight JQ256</td>
+		</tr>
 		<tr>
 			<td>66</td>
 			<td>Auckland</td>
@@ -495,14 +624,14 @@
 			<td>Auckland</td>
 			<td>40s</td>
 			<td>F</td>
-			<td><span style="font-size:10.0pt"><span style="line-height:107%"><span style="font-family:&quot;Arial&quot;,sans-serif"><span style="color:#002639">Travel to Africa &ndash; details to come</span></span></span></span></td>
+			<td>Travel to Africa &ndash; details to come</td>
 		</tr>
 		<tr>
 			<td>60</td>
 			<td>Auckland</td>
 			<td>20s</td>
 			<td>M</td>
-			<td><span style="font-size:10.0pt"><span style="line-height:107%"><span style="font-family:&quot;Arial&quot;,sans-serif"><span style="color:#002639">Dubai to Auckland on Monday 16 March &ndash; flight EK448</span></span></span></span></td>
+			<td>Dubai to Auckland on Monday 16 March &ndash; flight EK448</td>
 		</tr>
 		<tr>
 			<td>59</td>
@@ -545,7 +674,7 @@
 			<td>Waikato</td>
 			<td>40s</td>
 			<td>F</td>
-			<td><span style="font-size:10.0pt"><span style="line-height:107%"><span style="font-family:&quot;Arial&quot;,sans-serif"><span style="color:#002639">Contact with a confirmed case</span></span></span></span></td>
+			<td>Contact with a confirmed case</td>
 		</tr>
 		<tr>
 			<td>53</td>
@@ -652,14 +781,14 @@
 			<td>Wellington&nbsp;</td>
 			<td>50s</td>
 			<td>M</td>
-			<td>Travel related, however flights outside of infectious period.&nbsp;</td>
+			<td>Sydney to Wellington on 14 March &ndash; flight EK0412&nbsp;</td>
 		</tr>
 		<tr>
 			<td>39</td>
 			<td>Otago</td>
 			<td>20s</td>
 			<td>Male</td>
-			<td>LA to Auckland on&nbsp; Wednesday 18 March &ndash; flight NZ554 Auckland to Queenstown on Wednesday 18 March &ndash; flight NZ615</td>
+			<td>LA to Auckland on Wednesday 18 March &ndash; flight NZ554 Auckland to Queenstown on Wednesday 18 March &ndash; flight NZ615</td>
 		</tr>
 		<tr>
 			<td>38</td>
@@ -723,7 +852,7 @@
 			<td>50s</td>
 			<td>Male</td>
 			<td>Los Angeles to Auckland on Saturday 14 March &ndash; flight AA83<br />
-			Auckland to Christchurch on Sunday 15 March &ndash; flight and NZ535</td>
+			Auckland to Christchurch on Sunday 15 March &ndash; flight NZ535</td>
 		</tr>
 		<tr>
 			<td>29</td>
@@ -744,7 +873,7 @@
 			<td>Southern DHB</td>
 			<td>&nbsp;30s</td>
 			<td>Female</td>
-			<td>London to Auckland on&nbsp; Tuesday 17 March &ndash; flight NZ1<br />
+			<td>London to Auckland on&nbsp;Tuesday 17 March &ndash; flight NZ1<br />
 			Auckland to Christchurch on Tuesday 17 March &ndash; flight NZ525 Christchurch to Dunedin on Tuesday 17 March &ndash; flight NZ5749</td>
 		</tr>
 		<tr>
@@ -815,7 +944,7 @@
 			<td>Invercargill</td>
 			<td>40s</td>
 			<td>Male</td>
-			<td>Not infectious on flight</td>
+			<td>Travelled Australia to New Zealand on 10 March, flight details to come</td>
 		</tr>
 		<tr>
 			<td>16</td>
@@ -829,14 +958,14 @@
 			<td>Auckland</td>
 			<td>60s</td>
 			<td>Male</td>
-			<td>San Francisco to Auckland on Friday 13 March &ndash; flight NZ7</td>
+			<td>San Francisco to Auckland on Friday 13 March &ndash; flight NZ007</td>
 		</tr>
 		<tr>
 			<td>14</td>
 			<td>Auckland</td>
 			<td>40s</td>
 			<td>Female</td>
-			<td>Not infectious on flight</td>
+			<td>International travel &ndash; arrived 8 March, flight details to come</td>
 		</tr>
 		<tr>
 			<td>13</td>
@@ -929,7 +1058,7 @@
 			<td>Auckland</td>
 			<td>60s</td>
 			<td>&nbsp;</td>
-			<td>Iran to Bali to Auckland on Wednesday 26 February &ndash; flight EK450&nbsp;</td>
+			<td>Iran to Bali to Auckland on Wednesday 26 February &ndash; flight EK450</td>
 		</tr>
 	</tbody>
 </table>
@@ -959,7 +1088,7 @@
     </div>
     <div id="content-footer-wrapper" class="clearfix">
       <div id="content-footer" class="clearfix">
-                  <p class="page_updated">Page last updated: <span class="date">22 March 2020</span></p>                  <div class="region region-content-footer">
+                  <p class="page_updated">Page last updated: <span class="date">23 March 2020</span></p>                  <div class="region region-content-footer">
     <section id="block-moh-tools-page-tools" class="block block-moh-tools clearfix">
   <a href="#"
         data-placement="top"

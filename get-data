@@ -22,15 +22,24 @@ declare -a CITIES=(
   "Otago"
   "Bay\ of\ Plenty"
   "Hamilton"
+  "Tasman"
+  "Marlborough"
 );
 
 curl -s $URL > data;
 < data tr -d '\n' | grep -oP '(?<=<table class="table-style-two").*?(?=</table>)' > out;
 
+CASES=0;
+
 for city in "${CITIES[@]}"
 do 
   n=$(grep -o "<td>$city</td>" out | wc -l);
+  m=$(grep -o "<td>$city&nbsp;</td>" out | wc -l);
+  CASES=$((CASES+n+m));
   printf "%s " $city;
-  printf "%d\n" $n;
-  sed -i "/^$city,/s/[^,]*/$n/5" $CSV
+  printf "%d\n" $((n+m));
+  sed -i "/^$city,/s/[^,]*/$((n+m))/5" $CSV;
 done 
+
+printf "Total Cases: %d\n" $CASES;
+
