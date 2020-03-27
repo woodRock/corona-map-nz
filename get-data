@@ -5,14 +5,17 @@ URL="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-
 
 declare -a CITIES=(
   "Auckland" 
+  "Blenheim"
   "Nelson" 
   "Manawatu" 
   "Taupo" 
   "Wellington" 
+  "Wellington\ Region"
   "Waikato"
   "Wairarapa" 
   "Invercargill" 
-  "Hawkes\ Bay" 
+  "Hawkes\ Bay"
+  "Hawke&rsquo;s\ Bay" 
   "Canterbury" 
   "Southern\ DHB" 
   "Rotorua" 
@@ -26,13 +29,20 @@ declare -a CITIES=(
   "Marlborough"
   "Upper\ Hutt"
   "Kapiti\ Coast"
+  "Waitemata"
+  "New\ Plymouth"
+  "Christchurch"
+  "Waitaki"
+  "Wanaka"
+  "Queenstown"
+  "TBC"
 );
 
 # Fetch the and store its HTML 
 curl -s $URL > data;
 
 # Extract the data table and store it
-< data tr -d '\n' | grep -oP '(?<=<table class="table-style-two").*?(?=</table>)' > out;
+< data tr -d '\n' | grep -oP '(?<=<table border="0" cellpadding="0" cellspacing="0" class="table-style-two">).*?(?=</table>)' > out;
 
 CASES=0;
 

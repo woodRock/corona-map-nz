@@ -1,0 +1,32 @@
+City,Country,Type,Cases
+Auckland,NZ,City,79
+Nelson,NZ,City,5
+Manawatu,NZ,City,3
+Taupo,NZ,City,1
+Wellington,NZ,City,34
+Wellington Region,NZ,Region,2
+Waikato,NZ,City,11
+Hawkes Bay,NZ,City,1
+Canterbury,NZ,City,8
+Southern DHB,NZ,Region,2
+Rotorua,NZ,City,1
+Taranaki,NZ,City,4
+Dunedin,NZ,City,11
+Bay of Plenty,NZ,Region,2
+Otago,NZ,Region,2
+Northland,NZ,Region,2
+Invercargill,NZ,City,1
+Wairarapa,NZ,Region,2
+Hamilton,NZ,City,5
+Tasman,NZ,City,1
+Marlborough,NZ,Region,5
+Upper Hutt,NZ,City,1
+Kapiti Coast,NZ,City,3
+Waitemata,NZ,Town,4
+New Plymouth,NZ,City,1
+Christchurch,NZ,City,5
+Waitaki,NZ,Town,1
+Queenstown,NZ,Town,2
+Blenheim,NZ,Town,1
+Wanaka,NZ,Town,1
+TBC,NZ,TBC,2

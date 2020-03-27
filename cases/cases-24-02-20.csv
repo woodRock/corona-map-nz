@@ -1,0 +1,29 @@
+City,Lat,Long,Type,Cases
+Auckland,-36.8667,174.76667,City,61
+Nelson,-41.27078,173.28404,City,5
+Manawatu,-40.63333,175.275,City,3
+Taupo,-38.68333,176.08333,City,1
+Wellington,-41.28664,174.77557,City,24
+Wellington Region,-41.28664,174.77557,Region,2
+Waikato,-37.8106,175.76237,City,11
+Hawkes Bay,-39.6381,176.84918,City,3
+Canterbury,-43.89834,171.73011,City,6
+Southern DHB,-45.87416,170.50361,Region,2
+Rotorua,-38.13874,176.24516,City,1
+Taranaki,-37.0482,174.90019,City,4
+Dunedin,-45.87416,170.50361,City,9
+Bay of Plenty,-38.1,176.7,Region,1
+Otago,-45.87416,170.50361,Region,2
+Northland,-35.22676, 173.94739,Region,2
+Invercargill,-46.4,168.35,City,1
+Wairarapa,-40.95972,175.6575,Region,2
+Hamilton,-37.78333,175.28333,City,2
+Tasman,-41.21221,172.734714,City,1
+Marlborough,-41.51603,173.9528,Region,4
+Upper Hutt,-41.13827,175.0502,City,1
+Kapiti Coast,-40.91667,175.01667,City,1
+Waitemata,-35.835400,174.463390,Town,1
+New Plymouth,-39.056690,174.071686,City,1
+Christchurch,-43.532055,172.636230,City,2
+Waitaki,-44.937450,170.9704,Town,1
+Queenstown,-45.03023,168.66271,Town,1
