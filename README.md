@@ -1,5 +1,6 @@
 # corona-map-nz
 Corona virus cases by city for NZ. A script that automatically updates the data.
+![corona-map-preview](https://imgur.com/NdPDKYh.png)
 
 ## Script
 The bash script reads data from a url and extracts the frequency of cases for each of the cities listed. 
