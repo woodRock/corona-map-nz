@@ -1,0 +1,52 @@
+#! /bin/bash
+CSV=cases.csv;
+CASES_ROW=5;
+URL="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases"
+
+declare -a CITIES=(
+  "Auckland"
+  "Bay of Plenty"
+  "Canterbury"
+  "Capital and Coast"
+  "Counties Manukau"
+  "Hawke's Bay"
+  "Hutt Valley"
+  "Lakes"
+  "MidCentral"
+  "Nelson Marlborough"
+  "Northland"
+  "South Canterbury"
+  "Southern"
+  "Tairawhiti"
+  "Taranaki"
+  "Waikato"
+  "Wairarapa"
+  "Waitemata"
+  "West Coast"
+  "Whanganui"
+);
+
+# Fetch the and store its HTML
+curl -s $URL > data;
+
+# Extract the data table and store it
+< data tr -d '\n' | grep -oP '(?<=<table class="table-style-two">).*?(?=</table>)' > out;
+
+CASES=0;
+
+# For each city:
+#   count the number of cases
+#   display the count
+#   update the csv
+#   update the total cases
+for city in "${CITIES[@]}"
+do
+  n=$(grep "^<td>[\w]*<\/td>[ ]*<td>[\d]*<\/td>");
+  c=$((n))
+  printf "N: %s \n" $n;
+
+  # sed -i "/^$city,/s/[^,]*/$c/$CASES_ROW" $CSV;
+  # CASES=$((CASES+c));
+done
+
+printf "Total Cases: %d\n" $CASES;
