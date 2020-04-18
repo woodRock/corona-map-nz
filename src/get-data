@@ -41,10 +41,7 @@ CASES=0;
 #   update the total cases
 for city in "${CITIES[@]}"
 do
-  n=$(grep "^<td>[\w]*<\/td>[ ]*<td>[\d]*<\/td>");
-  c=$((n))
-  printf "N: %s \n" $n;
-
+  c = $(grep out) # TODO FIX THI 
   # sed -i "/^$city,/s/[^,]*/$c/$CASES_ROW" $CSV;
   # CASES=$((CASES+c));
 done
