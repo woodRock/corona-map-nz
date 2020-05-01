@@ -1,21 +1,21 @@
 City,Region,Active,Recovered,Deceased,Total,Change in last 24 hours
-Auckland,DHB NZ,26,148, ,174,-9
+Auckland,DHB NZ,28,155, ,183,-3
 Bay of Plenty,DHB NZ,14,33, ,47,0
-Canterbury,DHB NZ,48,102,10,160,2
+Canterbury,DHB NZ,51,97,10,158,1
 Capital and Coast,DHB NZ,27,66,2,95,0
-Counties Manukau,DHB NZ,16,102, ,118,5
-Hawke's Bay,DHB NZ,15,27, ,42,0
+Counties Manukau,DHB NZ,17,96, ,113,2
+Hawke's Bay,DHB NZ,16,26, ,42,0
 Hutt Valley,DHB NZ,5,15, ,20,0
 Lakes,DHB NZ,2,14, ,16,0
 MidCentral,DHB NZ,2,29, ,31,0
 Nelson Marlborough,DHB NZ,6,42, ,48,0
-Northland,DHB NZ,11,17, ,28,1
+Northland,DHB NZ,12,15, ,27,0
 South Canterbury,DHB NZ,8,8, ,16,0
-Southern,DHB NZ,21,193,2,216,0
+Southern,DHB NZ,22,192,2,216,0
 Tairawhiti,DHB NZ,1,3, ,4,0
 Taranaki,DHB NZ,2,12, ,14,0
-Waikato,DHB NZ,67,123,1,191,2
+Waikato,DHB NZ,73,115,1,189,3
 Wairarapa,DHB NZ,0,8, ,8,0
-Waitemata,NZ,52,165,2,219,4
+Waitemata,NZ,56,158,1,215,3
 West Coast,DHB NZ,0,4,1,5,0
-Whanganui,DHB NZ,2,7, ,9,0
+Whanganui,DHB NZ,2,7, ,9,
